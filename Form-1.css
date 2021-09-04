@@ -1,0 +1,173 @@
+
+span{
+    color: rgb(185, 35, 85);
+    position: relative;
+    left: -750px;
+    float: right;
+}
+
+.viteee{
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+h2{
+    color: rgb(30, 180, 30);
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 33px;
+    position:absolute;
+    left: 515px;
+    top: 60px;
+    float: right;
+}
+
+hr.new1 { 
+    position: relative; 
+    top: 20px; 
+    border: none; 
+    height: 5px; 
+    background:rgb(185, 35, 85); 
+    margin-bottom: 50px; 
+} 
+
+h3{
+    color:rgb(30, 180, 30);
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -12px;
+}
+
+hr.new2{
+    position: relative; 
+    top: -40px; 
+    border: none; 
+    height: 2px; 
+    background: rgb(202, 200, 200); 
+    margin-bottom: 50px; 
+}
+h5{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -120px;
+}
+p{
+    border-style: solid;
+    border-width: 2.5px;
+    border-color: rgb(202, 200, 200);
+    width: 1450px;
+    position: relative;
+    top: -160px;
+    left: 25px;
+    color: rgb(209, 25, 25);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.A{
+    position: relative;
+    margin-bottom: 10px;
+    color: rgb(83,83,83);
+    font-family: Arial, Helvetica, sans-serif;
+    top: -150px;
+  }
+  label {
+      position: relative;
+    display: inline-block;
+    width: 250px;
+    top: 0px;
+  }
+
+  .A input{
+      border-style: solid;
+      border-color:  rgb(253, 131, 190);
+      width: 300px;
+      height: 15px;
+  }
+.B {
+    position: relative;
+    top: -140px;
+    color: rgb(83, 83, 83);
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-flex;
+}
+
+p1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgb(255, 43, 167);
+    position: relative;
+    top: -70px;
+}
+.C{
+    color: rgb(83,83,83);
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -90px;
+}
+.C input{
+    border-style: solid;
+    border-color:  rgb(253, 131, 190);
+    width: 200px;
+}
+.D{
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(83,83,83);
+    top: -80px;
+}
+.D input{
+    border-style: solid;
+    border-color:  rgb(253, 131, 190);
+    width: 300px;
+    height: 15px;
+}
+p2{
+    color: rgb(83,83,83);
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -70px;
+}
+
+table, th, td {
+    border: 2px solid rgb(253, 131, 190);
+    border-collapse: collapse;
+    
+   
+  }
+  table.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  table{
+      position: relative;
+      width: 99%;
+  }
+  th{
+      text-align: left;
+      background-color: rgb(202, 200, 200);
+      color: rgb(185, 35, 85);
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 14px;
+      height: 30px;
+  }
+  td{
+      font-size: 14px;
+      background-color: rgb(241, 240, 240);
+      color: green;
+      font-family: Arial, Helvetica, sans-serif;
+      font-family: 14px;
+      height: 25px;
+  }
+
+  .A1{
+      position: relative;
+      text-align: right;
+      left: -120px;
+      top: -250px;
+      font-family: Arial, Helvetica, sans-serif;
+      color: black;
+
+  }
